@@ -1,5 +1,9 @@
 # websayfasi-volkandogru1
-#Canlı Linki:    
+*Canlı Linki:    
 https://volkandogru1.github.io/     
-#Repo Linki:     
+*Repo Linki:     
 https://github.com/volkandogru1/volkandogru1.github.io/      
+
+***Not:Projeye daha önce başladığım için commitleri kendi github repositoriyeme attım. ***
+
+
